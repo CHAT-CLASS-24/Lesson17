@@ -1,3 +1,5 @@
 # Lesson17
 
-just testing GitHub
+Just Testing it out
+
+blah blah blah
